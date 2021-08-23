@@ -9,6 +9,7 @@
 
 <p align="center">
   <h1>Projetos interessantes</h1>
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=AquilesAguiar&repo=English-learn-Angular">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=AquilesAguiar&repo=ChatterBotML">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=AquilesAguiar&repo=SummerEletroWeather">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=AquilesAguiar&repo=apiCompras">
+  <img align="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=AquilesAguiar&repo=ProjetoLojaCSharp ">
 </p> 
